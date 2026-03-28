@@ -2,9 +2,9 @@
 "Digital Literacy Portfolio – CSE0001 Project | VIT Bhopal University"
 
 # Digital Literacy Portfolio
-**Name:** Saumy Gupta
+**Name:** Manas Mishra
 
-**Reg No.:** 25BCE10981
+**Reg No.:** 25BCY10225
 
 **Branch:** B.Tech In Computer Science and Engineering
 
