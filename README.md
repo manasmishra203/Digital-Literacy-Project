@@ -1,44 +1,57 @@
-# Digital-Literacy-Project
-"Digital Literacy Portfolio – CSE0001 Project | VIT Bhopal University"
+# Digital Literacy Project
 
-# Digital Literacy Portfolio
-**Name:** Manas Mishra
+## 📌 Overview
+This repository contains my Digital Literacy project (CSE0001) completed at VIT Bhopal University. The project focuses on developing practical digital skills and awareness in areas such as online identity, communication, collaboration, and cyber security.
 
-**Reg No.:** 25BCY10225
+## 👨‍🎓 Student Details
+- Name: Manas Mishra
+- Registration Number: 25BCY10225
+- Branch: B.Tech CSE (Cyber Security)
 
-**Branch:** B.Tech In Computer Science and Engineering
+## 📂 Project Tasks
 
-**Year:** First Year  
+### 🔹 Task 1: Digital Literacy Infographic
+- Created using Canva
+- Covers online safety, digital identity, and responsible usage
 
-**Course:** CSE0001 – Digital Literacy  
+### 🔹 Task 2: Digital Portfolio
+- GitHub profile setup
+- LinkedIn profile creation
+- Kaggle account setup
 
-**Institution:** VIT Bhopal University
+### 🔹 Task 3: Coding & Collaboration
+- Solved beginner problem on HackerRank
+- Created Google Form quiz on digital literacy
 
-## Module Summaries
+### 🔹 Task 4: Professional Communication
+- Drafted formal emails
+- Created social media Do’s and Don’ts checklist
 
-**Task 1 – Digital Literacy Infographic**
-Created a one-page visual infographic explaining digital literacy concepts.
+### 🔹 Task 5: Cybercrime Awareness
+- Case study on UPI fraud
+- Prevention strategies and safety checklist
 
-**Task 2 – Student Digital Portfolio**
-Set up professional profiles on GitHub, LinkedIn, and other platforms.
+## 📊 Learning Outcomes
+- Understanding digital responsibility
+- Improving professional communication
+- Awareness of cyber threats and prevention
+- Building a strong digital presence
 
-**Task 3 – Coding & Collaboration Platforms**
-Explored coding platforms and built a Digital Literacy Quiz using Google Forms.
+## 📁 Files Included
+- Project Report (PDF/DOCX)
+- README.md
 
-**Task 4 – Email Etiquette**
-Drafted professional emails and created a social media do's and don'ts checklist.
-
-**Task 5 – Cybercrime Awareness**
-Researched a cybercrime case study and created a prevention checklist.
-
-## Links
-
-**Task 3 – Google Form Quiz:** https://forms.gle/fZYE7kzSExkSjQen7
-
-## Platforms Used
+## 🔗 References
+- Canva
 - GitHub
 - LinkedIn
-- Canva
+- Kaggle
 - HackerRank
 - Google Forms
-- Kaggle
+- National Cyber Crime Portal
+
+---
+
+## ✅ Conclusion
+This project helped me understand how to use digital tools responsibly and professionally, along with improving my awareness of online risks and communication standards.
+
